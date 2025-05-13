@@ -1,0 +1,4 @@
+ 13.05.2025
+✅ OBD verileri artık DataGridView'de gösteriliyor
+✅ Arıza kodları çözülüp ayrı ayrı listeleniyor
+✅ Bluetooth COM bağlantısı sabitlendi
